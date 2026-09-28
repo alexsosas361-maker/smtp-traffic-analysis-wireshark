@@ -135,4 +135,4 @@ smtp-traffic-analysis-wireshark/
 
 ## About me
 
-*Add your name, a one-line bio, and your LinkedIn link here.*
+(https://www.linkedin.com/in/alex-sosa-salazar/)
